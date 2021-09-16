@@ -1,0 +1,8 @@
+h1{ color: seagreen;
+font-size: 32px;
+}
+.d{color: indianred;
+font-size: 80px;}
+.b{color:black ;}
+.d.b {color: yellowgreen;}
+h2 span {color: pink;}

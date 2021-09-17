@@ -1,0 +1,31 @@
+body { background-color: greenyellow; 
+margin: 0;
+line-height: 38px;
+font-size: 27px;}
+header{text-align: center;
+background-color: forestgreen;
+padding-top: 52px;
+    padding-bottom: 38px;
+font-family: 'Gugi', cursive;
+font-family: cursive;}
+
+header img { border-radius: 180px;
+    width: 296px;
+    height: 296px;
+    border: solid 6px;
+    border-color: whitesmoke;
+}
+header h1{color: whitesmoke;
+font-size: 41px;}
+h2 {font-family: cursive;}
+main {max-width: 800px;
+padding: 0 20px;}
+footer {
+	text-align: center;
+	background-color: forestgreen;
+	color: whitesmoke;
+	padding-bottom: 0;
+	height: 37px;
+}
+main span {line-height:10px;}
+
